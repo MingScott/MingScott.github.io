@@ -44,19 +44,24 @@ Skills
 
 *Basic*: Python, Java, Javascript, SQL
 
-* **Technical Skills**
-    * Operating systems - *Linux (Debian, CentOS), Windows, Mac*
-    * Git, SSH, command line navigation
-    * Software - Office Suite, Photoshop, Illustrator, Premiere
-    * Formats: XML, JSON, CSV
-* **Writing / Arts / Education Skills**
-    * Research writing - *Flexibility of style, ease of reading*
-    * Group facilitation - *Presentation, accessibility*
-    * Teaching and Curriculum Development - *Narrative design, flexibility*
-    * Presentation - *engagement, interactivity*
-* **Other**
-    * Continuous improvement; self-teaching
-    * Community management, online moderation
+**Technical Skills**
+
+* Operating systems - *Linux (Debian, CentOS), Windows, Mac*
+* Git, SSH, command line navigation
+* Software - Office Suite, Photoshop, Illustrator, Premiere
+* Formats: XML, JSON, CSV
+
+**Writing / Arts / Education Skills**
+
+* Research and prose writing - *Flexibility of style, ease of reading*
+* Group facilitation - *Presentation, accessibility*
+* Teaching and Curriculum Development - *Narrative design, flexibility*
+* Presentation - *engagement, interactivity*
+
+**Other**
+
+* Continuous improvement; self-teaching
+* Community management, online moderation
 
 ### Certifications
 * Mental Health First Aid (Sep 2021 - Sep 2023)
