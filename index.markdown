@@ -12,7 +12,7 @@ Education
 ---------
 
 2016-2020
-:   **Partial BSc, Neuroscience and Creative Writing**; Dalhousie University (Halifax)
+:   **BSc, Neuroscience and Creative Writing (Partial)**; Dalhousie University (Halifax)
 
 Focus: Neuroimaging and neural oscillation analysis, signficant computer science components
 
