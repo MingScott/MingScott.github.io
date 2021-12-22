@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Jia-Ming Scott - Resume
+layout: page
+title: "Resume: Jia-Ming Scott"
 ---
 ----
 
