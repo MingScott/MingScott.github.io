@@ -6,7 +6,7 @@ permalink: /resume/
 Jia-Ming Scott
 =====
 
-> [mingscott.github.io](https://mingscott.github.io) • <ming.scott@gmail.com> • +1 289 213 9140 • 13-2724 Windsor St, Halifax, NS
+> [mingscott.github.io](https://mingscott.github.io) • <ming.scott@gmail.com>
 
 ----
 
