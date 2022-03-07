@@ -42,8 +42,8 @@ Skills
 
 **Personal Projects**
 
-* Continuous improvement; self-teaching
 * Community management, online moderation
+* Tabletop game design and facilitation
 
 Certifications
 ---------
@@ -82,3 +82,4 @@ Miscellaneous
 --------------------
 * I have American and Canadian citizenship
 * I am transgender and a person of colour
+
