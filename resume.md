@@ -6,7 +6,7 @@ permalink: /resume/
 Jia-Ming Scott
 =====
 
-> [mingscott.github.io](https://mingscott.github.io) • <ming.scott@gmail.com>
+> [mingscott.github.io](https://mingscott.github.io) • ming {dot} scott {at} gmail {dot} com
 
 ----
 
